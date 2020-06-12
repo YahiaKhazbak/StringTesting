@@ -27,11 +27,5 @@ public class StringHelper {
         return first2Chars.equals(last2Chars);
     }
 
-    public void addString(StringBuilder s){
-
-        s.append("string");
-
-    }
-
 }
 
