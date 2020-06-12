@@ -10,15 +10,15 @@ import static org.junit.Assert.*;
 
 public class StringHelperTest {
 
-//    @BeforeClass
-//    public static void beforeClass(){
-//        System.out.println("Before Class");
-//    }
-//
-//    @AfterClass
-//    public static void afterClass(){
-//        System.out.println("After Class");
-//    }
+    @BeforeClass
+    public static void beforeClass(){
+        System.out.println("Before Class");
+    }
+
+    @AfterClass
+    public static void afterClass(){
+        System.out.println("After Class");
+    }
 
     StringHelper helper;
 
